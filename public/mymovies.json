@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Dark Storm",
+      "image": "1.jpg",
+      "genre": "drama",
+      "rating": "8.3"
+    },
+    {
+      "id": 2,
+      "title": "Whisper of Fate",
+      "image": "2.jpg",
+      "genre": "fantasy",
+      "rating": "7.7"
+    },
+    {
+      "id": 3,
+      "title": "Beyond the Edge",
+      "image": "3.jpg",
+      "genre": "horror",
+      "rating": "6.3"
+    },
+    {
+      "id": 4,
+      "title": "Beyond the Edge",
+      "image": "3.jpg",
+      "genre": "horror",
+      "rating": "6.3"
+    }
+    
+  ]
